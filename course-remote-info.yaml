@@ -3,7 +3,7 @@ hyperskill_project:
   ide_files: https://cogniterra.org/media/attachments/lesson/27386/additional_files.json
   is_template_based: false
   use_ide: true
-update_date: "Thu, 02 May 2024 13:31:59 UTC"
+update_date: "Fri, 03 May 2024 13:21:13 UTC"
 stages:
   - id: 1789
     step: 25577
@@ -16,7 +16,7 @@ stages:
     is_completed: true
   - id: 1792
     step: 25580
-    is_completed: false
+    is_completed: true
 topics:
   0:
     - title: Computer algorithms
